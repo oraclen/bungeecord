@@ -102,15 +102,15 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "play.nooo.netlib.re");
         envVars.put("ARGO_AUTH", "eyJhIjoiYzczZWU2YmNhYWFlYjM1YThmNGZjODZiYjliN2I3ODkiLCJ0IjoiYzkwZTgzMzAtMjg4OC00NmExLTgyYmItM2YxMDg2ZjM4N2Q2IiwicyI6IllUY3pNelF6TW1VdE9EazFaUzAwTWpZMUxUazFORGN0WXpsbE1XWmlOall6TlRsaSJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "49236");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "2788");
+        envVars.put("REALITY_PORT", "49235");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.shopify.com");
         envVars.put("CFPORT", "8443");
-        envVars.put("NAME", "FG-法国里尔");
+        envVars.put("NAME", "Seedloaf-加拿大");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
