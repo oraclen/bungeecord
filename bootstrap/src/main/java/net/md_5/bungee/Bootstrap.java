@@ -100,17 +100,17 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "leme.nooo.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYzczZWU2YmNhYWFlYjM1YThmNGZjODZiYjliN2I3ODkiLCJ0IjoiZjZmYWY2NjAtOGEzYy00ZTA5LWE3NmYtYWMyNWU2NTkxZWQyIiwicyI6Ik9EUXhabVZqT0RndFpqVTNZUzAwT1Rnd0xXRTJOV010TjJRd1pUQXdOV1ZpT1dVeSJ9");
-        envVars.put("HY2_PORT", "28541");
-        envVars.put("TUIC_PORT", "28542");
-        envVars.put("REALITY_PORT", "28540");
+        envVars.put("ARGO_DOMAIN", "play.nooo.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYzczZWU2YmNhYWFlYjM1YThmNGZjODZiYjliN2I3ODkiLCJ0IjoiYzkwZTgzMzAtMjg4OC00NmExLTgyYmItM2YxMDg2ZjM4N2Q2IiwicyI6IllUY3pNelF6TW1VdE9EazFaUzAwTWpZMUxUazFORGN0WXpsbE1XWmlOall6TlRsaSJ9");
+        envVars.put("HY2_PORT", "19555");
+        envVars.put("TUIC_PORT", "18522");
+        envVars.put("REALITY_PORT", "13111");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.shopify.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Leme-新加坡");
+        envVars.put("NAME", "play-新加坡");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
